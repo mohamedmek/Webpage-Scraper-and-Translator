@@ -1,7 +1,7 @@
 
-# Website Scraper and Translator
+# Webpage Scraper and Translator
 
-This PHP script scrapes a website and translates its HTML content to a target language using Microsoft Translator API. The script also extracts CSS files, JS files, and images from the website and saves them to their respective directories.
+This PHP script scrapes a webpage and translates its HTML content to a target language using Microsoft Translator API. The script also extracts CSS files, JS files, and images from the website and saves them to their respective directories.
 
 ## Requirements
 
