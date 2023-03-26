@@ -5,7 +5,7 @@ use MicrosoftTranslator\Exceptions\TranslateException;
 use Symfony\Component\Panther\Client;
 
 // Set the base URL of the website you want to scrape
-$baseUrl = 'https://www.your-site.works/';
+$baseUrl = 'https://www.example.com/';
 
 // Set the target language for translation
 $targetLanguage = 'fr';
